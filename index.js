@@ -20,6 +20,7 @@ function sayHiToGrandma(string) {
   console.log("I can't hear you!")
 }
 function sayHiToGrandma(string) {
+  var uppercase = 'HELLO!'
   if (uppercase)
   console.log("YES INDEED!")
 }
