@@ -18,14 +18,14 @@ function sayHiToGrandma(string) {
   var lowerCase = 'hello!'
   if ((string = lowerCase))
     return "I can't hear you!"
-}
-function sayHiToGrandma(string) {  
+
+
   var upperCase = 'HELLO!'
   if ((string = upperCase))
      return "YES INDEED!"
-}
 
-function sayHiToGrandma(string) {
+
+
   var mixedCase = 'Hi there!'
   if ((string = mixedCase))
     return "I love you, too."
