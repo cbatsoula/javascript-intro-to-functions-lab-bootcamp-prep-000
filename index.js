@@ -18,13 +18,13 @@ function sayHiToGrandma(string) {
   var lowerCase = 'hello'
   var upperCase = 'HELLO'
   var mixedCase = 'Hi there'
-  if ((string = lowerCase))
+  if ((string = toLowerCase))
     return "I can't hear you!"
 
 
-  if ((string = upperCase))
+  if ((string = toUpperCase))
      return "YES INDEED!"
 
-  if ((string = mixedCase))
+  if ((string = toMixedCase))
     return "I love you, too."
 }
